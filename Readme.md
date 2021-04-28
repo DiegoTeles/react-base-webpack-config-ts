@@ -6,31 +6,27 @@ _In this project we have basic settings to work with Typescript, Babel, images, 
 
 ## **Used libs**
 
-[cross-env](https://www.npmjs.com/package/cross-env) for cross platform environment variables
-
+### **For cross platform environment variable**
+* [cross-env](https://www.npmjs.com/package/cross-env)
 ### **Loaders for webpack rules**
-[babel-loader](https://www.npmjs.com/package/babel-loader)
-[css-loader](https://www.npmjs.com/package/css-loader)
-[file-loader](https://www.npmjs.com/package/file-loader)
-[sass-loader](https://www.npmjs.com/package/sass-loader)
-[url-loader](https://www.npmjs.com/package/url-loader)
-
-### **Loaders for webpack rules**
-
+* [babel-loader](https://www.npmjs.com/package/babel-loader)
+* [css-loader](https://www.npmjs.com/package/css-loader)
+* [file-loader](https://www.npmjs.com/package/file-loader)
+* [sass-loader](https://www.npmjs.com/package/sass-loader)
+* [url-loader](https://www.npmjs.com/package/url-loader)
 ### **SASS**
-[node-sass](https://www.npmjs.com/package/node-sass)
-
+* [node-sass](https://www.npmjs.com/package/node-sass)
 ### **Image Optimizers**
-[imagemin-gifsicle](https://www.npmjs.com/package/imagemin-gifsicle)
-[imagemin-jpegtran](https://www.npmjs.com/package/imagemin-jpegtran)
-[imagemin-mozjpeg](https://www.npmjs.com/package/imagemin-mozjpeg)
-[imagemin-optipng](https://www.npmjs.com/package/imagemin-optipng)
-[imagemin-pngquant](https://www.npmjs.com/package/imagemin-pngquant)
-[imagemin-svgo](https://www.npmjs.com/package/imagemin-svgo)
-[image-minimizer-webpack-plugin](https://www.npmjs.com/package/image-minimizer-webpack-plugin)
+* [imagemin-gifsicle](https://www.npmjs.com/package/imagemin-gifsicle)
+* [imagemin-jpegtran](https://www.npmjs.com/package/imagemin-jpegtran)
+* [imagemin-mozjpeg](https://www.npmjs.com/package/imagemin-mozjpeg)
+* [imagemin-optipng](https://www.npmjs.com/package/imagemin-optipng)
+* [imagemin-pngquant](https://www.npmjs.com/package/imagemin-pngquant)
+* [imagemin-svgo](https://www.npmjs.com/package/imagemin-svgo)
+* [image-minimizer-webpack-plugin](https://www.npmjs.com/package/image-minimizer-webpack-plugin)
 
 ### **Inject bundle**
-[html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+* [html-webpack-plugin](https://www.npmjs.com/package/imagemin-svgo)
 
 ### **Fast refresh components**
-[@pmmmwh/react-refresh-webpack-plugin](https://www.npmjs.com/package/@pmmmwh/react-refresh-webpack-plugin)
+* [@pmmmwh/react-refresh-webpack-plugin](https://www.npmjs.com/package/@pmmmwh/react-refresh-webpack-plugin)
