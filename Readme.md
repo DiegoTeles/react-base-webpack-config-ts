@@ -32,9 +32,9 @@ _In this project we have basic settings to work with Typescript, Babel, images, 
 * [@pmmmwh/react-refresh-webpack-plugin](https://www.npmjs.com/package/@pmmmwh/react-refresh-webpack-plugin)
 
 ### **Babel preset**
-[@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)
-[@babel/preset-typescript](https://www.npmjs.com/package/@babel/preset-typescript)
-[@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react)
+* [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)
+* [@babel/preset-typescript](https://www.npmjs.com/package/@babel/preset-typescript)
+* [@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react)
 
 ### Babel config 
 
