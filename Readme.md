@@ -30,3 +30,26 @@ _In this project we have basic settings to work with Typescript, Babel, images, 
 
 ### **Fast refresh components**
 * [@pmmmwh/react-refresh-webpack-plugin](https://www.npmjs.com/package/@pmmmwh/react-refresh-webpack-plugin)
+
+### **Babel preset**
+[@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)
+[@babel/preset-typescript](https://www.npmjs.com/package/@babel/preset-typescript)
+[@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react)
+
+### Babel config 
+
+```js
+//babel.config.js
+module.exports = {
+  presets: [
+    "@babel/preset-env", //that allows you to use the latest JavaScript without needing to micromanage which syntax transforms
+    "@babel/preset-typescript", // that allows you to use Typescript
+    [
+      "@babel/preset-react",
+      {
+        runtime: "automatic", // react refresh automatic. Default is classic
+      },
+    ],
+  ],
+};
+```
